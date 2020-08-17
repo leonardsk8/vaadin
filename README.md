@@ -16,6 +16,7 @@ Below are the configuration details to start the project using a `spring-boot:ru
 - You can optionally select `Skip tests` checkbox
 - All the other settings can be left to default
 
+
 Once configurations are set clicking `Run` will start the application
 
 #### Intellij IDEA
