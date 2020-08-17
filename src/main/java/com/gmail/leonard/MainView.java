@@ -45,7 +45,7 @@ public class MainView extends VerticalLayout {
         TextField textField = new TextField("Tu nombre");
         textField.addThemeName("bordered");
 
-        // Button click listeners can be defined as lambda expressions
+
         Button button = new Button("Say hello",
                 e -> Notification.show(service.greet(textField.getValue())));
 
