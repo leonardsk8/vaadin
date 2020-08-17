@@ -41,7 +41,7 @@ public class MainView extends VerticalLayout {
      */
     public MainView(@Autowired GreetService service) {
 
-        // Use TextField for standard text input
+
         TextField textField = new TextField("Tu nombre");
         textField.addThemeName("bordered");
 
